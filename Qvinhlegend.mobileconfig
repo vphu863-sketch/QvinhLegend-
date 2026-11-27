@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array/>
+    <key>PayloadDescription</key>
+    <string>Qvinhlegend iOS Configuration</string>
+    <key>PayloadDisplayName</key>
+    <string>Qvinhlegend DPI Mobile Config</string>
+    <key>PayloadIdentifier</key>
+    <string>com.qvinhlegend.mobileconfig</string>
+    <key>PayloadOrganization</key>
+    <string>Qvinhlegend</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>7B9F1A21-5C34-4D89-A712-8E6F3B2C9015</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
