@@ -1,0 +1,18 @@
+{
+“project”: “QVINHLEGEND CONFIG”,
+“version”: “2.0”,
+“developer”: “Qvinhlegend”,
+“device”: “iPhone 12”,
+“chip”: “Apple A14 Bionic”,
+“platform”: “iOS”,
+“profile”: “Qvinhlegend DPI Mobile Config”,
+“data_type”: “Configuration Information”,
+“settings”: {
+“display”: “Use native iOS display settings”,
+“touch”: “Use native iOS touch settings”,
+“game”: “Free Fire”,
+“aim_assistance”: false,
+“game_modification”: false
+},
+“description”: “QV DATA V2.0 - Configuration information for iPhone 12.”
+}
