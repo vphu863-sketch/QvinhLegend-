@@ -2,46 +2,38 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadIdentifier</key>
+    <string>com.qvinhlegend.touchconfig</string>
+    <key>PayloadUUID</key>
+    <string>8A7C9B21-5D43-4E6F-9A12-BC34D567EF89</string>
+    <key>PayloadDisplayName</key>
+    <string>QVINHLEGEND DPI MOBILE CONFIG V3.0</string>
+    <key>PayloadDescription</key>
+    <string>QVINHLEGEND TOUCH DATA - iPhone 12</string>
+    <key>PayloadOrganization</key>
+    <string>QVINHLEGEND CONFIG</string>
     <key>PayloadContent</key>
     <array>
         <dict>
-            <key>FullScreen</key>
-            <false/>
-            <key>IsRemovable</key>
-            <true/>
-            <key>Label</key>
-            <string>QVINHLEGEND CONFIG</string>
-            <key>PayloadDescription</key>
-            <string>Website Qvinhlegend Config</string>
-            <key>PayloadDisplayName</key>
-            <string>Qvinhlegend Web Clip</string>
-            <key>PayloadIdentifier</key>
-            <string>com.qvinhlegend.webclip</string>
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
-            <key>PayloadUUID</key>
-            <string>4A7B8C91-2D35-4E61-9F20-6B8D3A5C7E11</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
+            <key>PayloadIdentifier</key>
+            <string>com.qvinhlegend.webclip</string>
+            <key>PayloadUUID</key>
+            <string>7B6A5C43-2D10-4F98-8E76-A1B2C3D4E5F6</string>
+            <key>Label</key>
+            <string>QVINHLEGEND CONFIG</string>
             <key>URL</key>
             <string>https://github.com/</string>
+            <key>IsRemovable</key>
+            <true/>
         </dict>
     </array>
-    <key>PayloadDescription</key>
-    <string>Qvinhlegend Mobile Configuration Version 1.1</string>
-    <key>PayloadDisplayName</key>
-    <string>QVINHLEGEND DPI MOBILE CONFIG</string>
-    <key>PayloadIdentifier</key>
-    <string>com.qvinhlegend.mobileconfig</string>
-    <key>PayloadOrganization</key>
-    <string>Qvinhlegend</string>
-    <key>PayloadRemovalDisallowed</key>
-    <false/>
-    <key>PayloadType</key>
-    <string>Configuration</string>
-    <key>PayloadUUID</key>
-    <string>8C2D6E91-4A73-4F10-B529-7D3E6A1C8052</string>
-    <key>PayloadVersion</key>
-    <integer>1</integer>
 </dict>
 </plist>
